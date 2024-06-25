@@ -1,6 +1,6 @@
 ---
 title: Nooit meer tijd verspillen bij het zoeken naar inhoud
-description: Word een bekwame auteur met een diepe duik in AEM Sites en het beleid UI van Media Library met uiteinden en trucs om uw efficiency van dag tot dag te verhogen
+description: Verbeter uw ontwerpproces met een diepgaande gids voor AEM Sites en Media Library met praktische tips om uw dagelijkse workflow te stroomlijnen.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] grondbeginselen
 
-Leer hoe u in Adobe Experience Manager rijke en boeiende klantervaringen kunt maken in deze webinarreeks van 5 delen. Wij zullen met de bouwstenen van inhoud creatie beginnen terwijl het introduceren van u aan de fundamentele concepten en verrichtingen. Dit omvat functies voor sitebeheer en basisbeginselen voor de verwerking van digitale elementen binnen AEM. In het latere deel van de reeks ontdekt u functies die u kunnen helpen tijd te besparen en efficiënter te zijn door de inhoud opnieuw te gebruiken en deze via verschillende kanalen te leveren.
+Leer hoe u in Adobe Experience Manager rijke en boeiende klantervaringen kunt maken in deze webinarreeks van 5 delen. De reeks begint met de bouwstenen van inhoud creatie terwijl het introduceren van u aan de fundamentele concepten en verrichtingen. Het bevat functies voor sitebeheer en basisbeginselen voor de verwerking van digitale elementen binnen AEM. In het laatste deel van de reeks ontdekt u functies die u kunnen helpen tijd te besparen en efficiënter te zijn door de inhoud opnieuw te gebruiken en deze via verschillende kanalen te leveren.
 
 ## Nooit meer tijd verspillen bij het zoeken naar inhoud
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Word een bekwame auteur met een diepe duik in AEM Sites en het beleid UI van Media Library met uiteinden en trucs om uw efficiency van dag tot dag te verhogen.
+Verhoog uw creatieve vaardigheden met een reis door AEM Plaatsen en het beleid van Media Library UI, gewapend met efficiënte strategieën om uw dagelijkse productiviteit te verhogen.
 
 ## Reeksopnamen
 

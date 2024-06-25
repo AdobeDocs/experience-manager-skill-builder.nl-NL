@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dynamic Media]- ADOBE [!DNL Experience Manager Assets] serie
 
-Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Als je een arts bent die nog niet vertrouwd is met Adobe [!DNL Experience Manager Assets] of Adobe hebben gebruikt [!DNL Experience Manager Assets] voor een tijdje , en die op uw bestaande vaardigheden willen pikt , is dit de ideale manier om een diepe duik in vijf van de belangrijkste gebieden van de oplossing te krijgen . Deskundigen van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
+Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Uw Adobe ontdekken of verfijnen [!DNL Experience Manager Assets] expertise met een gerichte diepgaande duik in de vijf essentiële functies: uw snelle ervaring met kennis van zaken. Deskundigen van de Adobe evalueren de grondbeginselen en bieden ook geavanceerde inzichten die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -29,11 +29,11 @@ De uitvoer van elementen voor alle kanalen en schermen automatiseren met [!DNL D
 
 ## Bronnen
 
-*[[!DNL Dynamic Media] Gevallen gebruiken](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
-*[[!DNL Dynamic Media] Video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
+*[[!DNL Dynamic Media] Gevallen gebruiken](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] Video&#39;s](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[Rich Media Strategy Kickstart Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Voorinstellingenhandleiding voor afbeeldingen met rijke mediastrategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Afbeelding is Alles-blogreeks](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Aanbevolen procedures voor Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## Reeksopnamen
 
