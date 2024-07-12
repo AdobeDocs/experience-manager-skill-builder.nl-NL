@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Mapstructuur en zoeken - Adobe [!DNL Experience Manager Assets] serie
+# Mapstructuur en zoeken - Adobe [!DNL Experience Manager Assets] reeks
 
-Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Of je nu nieuw bent voor Adobe [!DNL Experience Manager Assets] Voor het verfijnen van uw vaardigheden, is deze diepe duik in vijf belangrijke gebieden de perfecte manier om uw deskundigheid te verbeteren. Deskundigen van de Adobe evalueren de grondbeginselen en bieden ook geavanceerde inzichten die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
+Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Of u nu nieuw bent in de Adobe [!DNL Experience Manager Assets] of uw vaardigheden nog verder wilt verfijnen, deze diepgaande stap in vijf belangrijke gebieden is de ideale manier om uw kennis te vergroten. Deskundigen van de Adobe evalueren de grondbeginselen en bieden ook geavanceerde inzichten die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
@@ -29,13 +29,13 @@ De basisbeginselen van het instellen en gebruiken van uw DAM.
 
 ## Bronnen
 
-* [[!DNL AEM Assets] Handboek](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
-* [Uw [!DNL AEM Assets] mapstructuur](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [Instellen [!DNL AEM Assets] mapmachtigingen](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
-* [Verzamelingen gebruiken om elementen te ordenen en te delen](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [Zoeken naar visueel vergelijkbare middelen met leren van machines](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Hiermee krijgt u nauwkeurige en nauwkeurige zoekresultaten met dynamische zoekfuncties](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Geavanceerde full-text zoeksyntaxis](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
+* [[!DNL AEM Assets]  Gids van de Gebruiker ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [ Vestiging uw  [!DNL AEM Assets]  omslagstructuur ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+*  [!DNL AEM Assets]  de omslagtoestemmingen van de opstelling [ ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [ inzamelingen van het Gebruik om activa te organiseren en te delen ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [ vind visueel gelijkaardige activa met machine het leren ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [ krijgt nauwkeurige en nauwkeurige onderzoeksresultaten met dynamische onderzoeksfacetten ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [ Geavanceerde full-text onderzoekssyntaxis ](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## Reeksopnamen
 

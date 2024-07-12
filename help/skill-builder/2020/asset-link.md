@@ -19,20 +19,20 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Asset Link] - ADOBE [!DNL Experience Manager Assets] serie
+# [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] reeks
 
 Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Nieuw of gekruid in Adobe [!DNL Experience Manager Assets]? Perfectioneer uw vaardigheden met een diepgaande verkenning van zijn vijf belangrijkste eigenschappen. Verhoog uw expertise efficiënt. Deskundigen van de Adobe evalueren de grondbeginselen en bieden ook geavanceerde inzichten die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-[!DNL Asset Link] is uw eigen verbinding met Adobe Creative Cloud.
+[!DNL Asset Link] is uw native verbinding met Adobe Creative Cloud.
 
 ## Bronnen
 
-* [Adobe [!DNL Asset Link] video](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
-* [[!DNL Asset Link] voor Adobe XD](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
-* [Configureren [!DNL AEM Assets] 6.5 en 6.4 voor Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Configureren [!DNL AEM as a Cloud Service] voor Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [ Adobe  [!DNL Asset Link]  video&#39;s ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [[!DNL Asset Link]  voor Adobe XD ](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
+* [ vorm  [!DNL AEM Assets]  6.5 en 6.4 voor Adobe  [!DNL Asset Link] ](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [ vorm  [!DNL AEM as a Cloud Service]  voor Adobe  [!DNL Asset Link] ](https://helpx.adobe.com/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## Reeksopnamen
 

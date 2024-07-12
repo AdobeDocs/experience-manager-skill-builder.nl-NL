@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Manager Sites] grondbeginselen
+# Basisbeginselen van Adobe [!DNL Experience Manager Sites]
 
 Leer hoe u in Adobe Experience Manager rijke en boeiende klantervaringen kunt maken in deze webinarreeks van 5 delen. De reeks begint met de bouwstenen van inhoud creatie terwijl het introduceren van u aan de fundamentele concepten en verrichtingen. Het bevat functies voor sitebeheer en basisbeginselen voor de verwerking van digitale elementen binnen AEM. In het laatste deel van de reeks ontdekt u functies die u kunnen helpen tijd te besparen en efficiënter te zijn door de inhoud opnieuw te gebruiken en deze via verschillende kanalen te leveren.
 

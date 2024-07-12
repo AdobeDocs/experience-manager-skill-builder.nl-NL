@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Tips en trucs testen met [!DNL Cloud Manager] - september 2019
+# Best practices testen met [!DNL Cloud Manager] - september 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 

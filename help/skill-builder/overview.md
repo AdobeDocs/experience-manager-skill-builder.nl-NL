@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # [!DNL Experience Manager] Opnamen van Skill Builder
 
-Welkom bij de Adobe [!DNL Experience Manager] De huis van Opnamen van de Bouwer van de Vaardigheid kenmerkend geregistreerde webinars die worden ontworpen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager].
+Welkom bij de Adobe [!DNL Experience Manager] Skill Builder Recordings home met opgenomen webinars die zijn ontworpen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager] .
 
 ## Wat is er nieuw?
 
@@ -27,7 +27,7 @@ Welkom bij de Adobe [!DNL Experience Manager] De huis van Opnamen van de Bouwer 
     </a>
     </div>
     <p>
-    <em>[!DNL Asset Link] is uw eigen verbinding met Adobe Creative Cloud.</em>
+    <em>[!DNL Asset Link] is uw native verbinding met Adobe Creative Cloud.</em>
     <p>
   </td>
   <td>
@@ -36,11 +36,11 @@ Welkom bij de Adobe [!DNL Experience Manager] De huis van Opnamen van de Bouwer 
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/for-2020/brand-portal">
-    <strong>Brand Portal</strong>
+    <strong> Brand Portal </strong>
     </a>
     </div>
     <p>
-    <em>Eenvoudig middelen delen met interne en externe teams.</em>
+    <em> Gemakkelijk activa delend met interne en externe teams.</em>
     </p>
   </td>
   <td>
@@ -53,7 +53,7 @@ Welkom bij de Adobe [!DNL Experience Manager] De huis van Opnamen van de Bouwer 
       </a>
     </div>
     <p>
-    <em>Automatiseer de uitvoer van elementen voor alle kanalen en schermen.</em>
+    <em> Automate de output van activa voor alle kanalen en de schermen.</em>
     <p>
   </td>
 </tr>
@@ -61,4 +61,4 @@ Welkom bij de Adobe [!DNL Experience Manager] De huis van Opnamen van de Bouwer 
 
 >[!TIP]
 >
->**Zie de navigatie op de linkerzijde voor opnamen van vorige gebeurtenissen van de Bouwer van de Vaardigheid**.
+>**zie de navigatie op de linkerzijde voor opnamen van vorige gebeurtenissen van de Bouwer van de Vaardigheid**.
