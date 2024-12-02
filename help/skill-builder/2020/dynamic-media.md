@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Dynamic Media]"
+title: '[!DNL Dynamic Media]'
 description: De uitvoer van elementen voor alle kanalen en schermen automatiseren
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
