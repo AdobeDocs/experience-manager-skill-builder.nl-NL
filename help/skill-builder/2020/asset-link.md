@@ -8,20 +8,20 @@ feature: Adobe [!DNL Asset Link]
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] reeks
+# [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets] -reeks
 
-Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Nieuw of gekruid in Adobe [!DNL Experience Manager Assets]? Perfectioneer uw vaardigheden met een diepgaande verkenning van zijn vijf belangrijkste eigenschappen. Verhoog uw expertise efficiënt. Deskundigen van de Adobe evalueren de grondbeginselen en bieden ook geavanceerde inzichten die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
+Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe te maximaliseren [!DNL Experience Manager Assets]. Nieuw of gekruid in Adobe [!DNL Experience Manager Assets] ? Perfectioneer uw vaardigheden met een diepgaande verkenning van zijn vijf belangrijkste eigenschappen. Verhoog uw expertise efficiënt. De experts van Adobe evalueren de basisbeginselen en bieden ook geavanceerde inzichten die u de mogelijkheid bieden om de volgende stappen die u kunt uitvoeren, onmiddellijk uit te voeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
