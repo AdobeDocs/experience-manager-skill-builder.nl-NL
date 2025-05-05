@@ -31,7 +31,7 @@ De basisbeginselen van het instellen en gebruiken van uw DAM.
 
 * [[!DNL AEM Assets]  Gids van de Gebruiker ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
 * [ Vestiging uw  [!DNL AEM Assets]  omslagstructuur ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
-*  [!DNL AEM Assets]  de omslagtoestemmingen van de opstelling [ ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [!DNL AEM Assets]  de omslagtoestemmingen van de opstelling [&#128279;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [ inzamelingen van het Gebruik om activa te organiseren en te delen ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [ vind visueel gelijkaardige activa met machine het leren ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
 * [ krijgt nauwkeurige en nauwkeurige onderzoeksresultaten met dynamische onderzoeksfacetten ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
