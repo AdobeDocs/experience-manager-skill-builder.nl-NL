@@ -29,12 +29,12 @@ Een duidelijke strategie opzetten om de ontdekkingsmogelijkheden te optimalisere
 
 ## Bronnen
 
-*[ de schema&#39;s van Meta-gegevens van het Gebruik om activa meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata) te beheren
-*[ breid de schema&#39;s van Meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas) uit
-*[ optimaliseer meta-gegevens het auteursrecht met het draperen meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[ past automatisch meta-gegevens op activa toe gebruikend de Profielen van Meta-gegevens ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[ de Schema&#39;s van Meta-gegevens van AEM ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[ beheer de meta-gegevens van Activa ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[ de schema&#39;s van Meta-gegevens van het Gebruik om activa meta-gegevens ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/authoring/metadata) te beheren
+*[ breid de schema&#39;s van Meta-gegevens ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/configuring/metadata-schemas) uit
+*[ optimaliseer meta-gegevens het auteursrecht met het draperen meta-gegevens ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[ past automatisch meta-gegevens op activa toe gebruikend de Profielen van Meta-gegevens ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[ de Schema&#39;s van Meta-gegevens van AEM ](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[ beheer de meta-gegevens van Activa ](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Reeksopnamen
 

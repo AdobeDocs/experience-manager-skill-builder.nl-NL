@@ -18,7 +18,7 @@ Dit project voldoet aan de Adobe-[gedragscode](code-of-conduct.md). Door deel te
 
 ## Documentatie voor de bijdragegids
 
-Zie de [Handleiding voor contribuanten](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Zie de [Handleiding voor contribuanten](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
 
 ## Heb je een vraag?
 
@@ -44,4 +44,4 @@ de Adobe is ingenomen met de bijdragen van de gemeenschap . Als u een comitator 
 
 ## Beveiligingsproblemen
 
-Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [een probleem indienen voor beveiligingsexperts van de Adobe](https://helpx.adobe.com/security/alertus.html)
+Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [een probleem indienen voor beveiligingsexperts van de Adobe](https://helpx.adobe.com/nl/security/alertus.html)

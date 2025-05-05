@@ -29,10 +29,10 @@ Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw inves
 
 ## Bronnen
 
-* [ Adobe  [!DNL Asset Link]  video&#39;s ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
-* [[!DNL Asset Link]  voor Adobe XD ](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html)
-* [ vorm  [!DNL AEM Assets]  6.5 en 6.4 voor Adobe  [!DNL Asset Link] ](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [ vorm  [!DNL AEM as a Cloud Service]  voor Adobe  [!DNL Asset Link] ](https://helpx.adobe.com/enterprise/using/configure-aem-assets-for-asset-link.html)
+* [ Adobe  [!DNL Asset Link]  video&#39;s ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [[!DNL Asset Link]  voor Adobe XD ](https://helpx.adobe.com/nl/enterprise/using/adobe-asset-link-for-xd.html)
+* [ vorm  [!DNL AEM Assets]  6.5 en 6.4 voor Adobe  [!DNL Asset Link] ](https://helpx.adobe.com/nl/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [ vorm  [!DNL AEM as a Cloud Service]  voor Adobe  [!DNL Asset Link] ](https://helpx.adobe.com/nl/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## Reeksopnamen
 
